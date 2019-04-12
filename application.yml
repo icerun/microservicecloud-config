@@ -1,7 +1,7 @@
-spring:
+﻿spring:
      frofiles:
           active:
-               -dev
+               - dev
 
 ---
 spring:
