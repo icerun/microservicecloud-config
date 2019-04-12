@@ -1,0 +1,17 @@
+spring:
+     frofiles:
+          active:
+               -dev
+
+---
+spring:
+     frofiles: dev
+          application:
+                name.microservicecloud-config-fdzang-dev
+
+
+---
+spring:
+     frofiles: test
+          application:
+                name.microservicecloud-config-fdzang-test
